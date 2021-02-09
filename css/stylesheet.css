@@ -1,0 +1,22 @@
+ul{
+	list-style-type: none;
+}
+
+nav{
+	width:100%;
+	color:black;
+	background-color:white;
+}
+nav>ul{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+nav>ul>li{
+	 flex-basis: 20%;
+	list-style-type: none;
+	background:white;
+	height: 40px;
+	line-height: 
+}
+
